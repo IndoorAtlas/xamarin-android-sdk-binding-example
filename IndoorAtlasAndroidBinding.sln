@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndoorAtlasAndroidBinding", "IndoorAtlasAndroidBinding\IndoorAtlasAndroidBinding.csproj", "{E9288FA3-C4DE-4A17-B74D-2DEFFD570F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndoorAtlasBindingClient", "IndoorAtlasBindingClient\IndoorAtlasBindingClient.csproj", "{50194885-A7BA-4827-903F-F1315E2CBC61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9288FA3-C4DE-4A17-B74D-2DEFFD570F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9288FA3-C4DE-4A17-B74D-2DEFFD570F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9288FA3-C4DE-4A17-B74D-2DEFFD570F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9288FA3-C4DE-4A17-B74D-2DEFFD570F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50194885-A7BA-4827-903F-F1315E2CBC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50194885-A7BA-4827-903F-F1315E2CBC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50194885-A7BA-4827-903F-F1315E2CBC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50194885-A7BA-4827-903F-F1315E2CBC61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
